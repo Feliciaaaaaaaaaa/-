@@ -1,2 +1,2 @@
 # -
-智慧农业
+intelligent agriculture
